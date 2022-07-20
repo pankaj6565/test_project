@@ -16,7 +16,7 @@
         <?php if($this->session->flashdata('success')){?>
         <div class="alert alert-success mb-4" role="alert"> <i class="flaticon-cancel-12 close" data-dismiss="alert"></i> <strong>Success!</strong> <?php  echo $this->session->flashdata('success');?>  </div>
         <?php  }            ?>
-        
+        mera man
         <div class="row" id="cancel-row">
             
             <div class="col-xl-12 col-lg-12 col-sm-12  layout-spacing">
