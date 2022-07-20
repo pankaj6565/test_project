@@ -28,7 +28,16 @@
                             </div>
                             <!-- <div class="col-xl-6 col-md-6 col-sm-6 text-right col-6">
                                 <a class="btn btn-sm btn-info mt-3 mr-2" href="<?php echo base_url('banner_add'); ?>">Add</a>
-                            </div> -->
+                            </div> -->sfsdfsdfsdafsdadsa
+
+                            fsdafsdfsf
+                            sf
+                            sdfsdaf
+                            dfsda
+                            fsda
+                            sda
+                            fsdafsdaf
+                            
                         </div>
                     </div>
                     <div class="widget-content widget-content-area">
